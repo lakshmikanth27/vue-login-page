@@ -1,24 +1,18 @@
 # login-page
 
-## Project setup
+# Design
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+Used Bootstrap for CSS
 ```
 
-### Compiles and minifies for production
+## Clone the project using Git 
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+git clone https://github.com/lakshmikanth27/vue-login-page.git
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## To Start the project
+```
+Use 'npm install' -- this will install all the packages that needs to install
+and use 'npm run serve' -- it will start the local server
+and Open http://localhost:8080 --- open in the browser to look at the page
+```
